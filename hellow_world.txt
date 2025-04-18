@@ -1,1 +1,5 @@
-test
+git status -> provera statusa
+git log -> gledati logove
+git add -> faza pre commita
+git commit -m "(komentar)" -> komitovanje
+git push stavljanje na github
